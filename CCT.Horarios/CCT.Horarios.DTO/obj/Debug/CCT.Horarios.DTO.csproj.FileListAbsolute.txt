@@ -1,0 +1,5 @@
+c:\users\a120004\documents\visual studio 2015\Projects\CCT.Horarios\CCT.Horarios.DTO\bin\Debug\CCT.Horarios.DTO.dll
+c:\users\a120004\documents\visual studio 2015\Projects\CCT.Horarios\CCT.Horarios.DTO\bin\Debug\CCT.Horarios.DTO.pdb
+c:\users\a120004\documents\visual studio 2015\Projects\CCT.Horarios\CCT.Horarios.DTO\obj\Debug\CCT.Horarios.DTO.csprojResolveAssemblyReference.cache
+c:\users\a120004\documents\visual studio 2015\Projects\CCT.Horarios\CCT.Horarios.DTO\obj\Debug\CCT.Horarios.DTO.dll
+c:\users\a120004\documents\visual studio 2015\Projects\CCT.Horarios\CCT.Horarios.DTO\obj\Debug\CCT.Horarios.DTO.pdb

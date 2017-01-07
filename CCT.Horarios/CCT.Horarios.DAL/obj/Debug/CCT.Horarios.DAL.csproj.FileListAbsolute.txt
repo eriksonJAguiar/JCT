@@ -1,0 +1,17 @@
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\CCT.Horarios.DAL.dll.config
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\CCT.Horarios.DAL.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\CCT.Horarios.DAL.pdb
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\EntityFramework.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\MySql.Data.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\MySql.Web.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\EntityFramework.xml
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\obj\Debug\CCT.Horarios.DAL.csprojResolveAssemblyReference.cache
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\obj\Debug\CCT.Horarios.DAL.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\obj\Debug\CCT.Horarios.DAL.pdb
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\obj\Debug\CCT.Horarios.DAL.Migrations.Inicio.resources
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\obj\Debug\CCT.Horarios.DAL.csproj.GenerateResource.Cache
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\CCT.Horarios.DTO.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.DAL\bin\Debug\CCT.Horarios.DTO.pdb

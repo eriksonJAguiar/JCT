@@ -1,0 +1,43 @@
+﻿@using CCT.Horarios.DTO.Entities
+@model CampusDTO   
+
+ <fieldset>
+        @if (Request.RawUrl.ToLower().EndsWith("editar"))
+        {
+            <legend>Editar Campus</legend>
+        }
+        else
+        {
+            <legend>Cadastrar Campus</legend>
+        }
+        @using (Html.BeginForm())
+        {
+
+            <div>
+                @Html.HiddenFor(x => x.id)
+                @Html.LabelFor(x => x.nome)
+                @Html.TextBoxFor(x => x.nome, new { @class = "form-control", @autofocus = "autofocus", @placeholder = "Digite o nome do campus" })
+            </div>
+            <div style="margin-top:10px;">
+                @Html.LabelFor(x => x.sigla)
+                @Html.TextBoxFor(x => x.sigla, new { @class = "form-control", @placeholder = "Digite a Sigla do Campus" })
+            </div>
+            <div style="margin-top:20px;">
+                
+                <div class="row">
+                    @if (Request.RawUrl.ToLower().EndsWith("cadastrar"))
+                    {
+                    <div class="col-sm-6">
+                        <input type="reset" class="btn btn-danger btn-lg btn-block" name="limpar" id="limpar" value="Limpar" />
+                    </div>
+                    }
+                    <div class="col-sm-6">
+                        <input type="submit" class="btn btn-info btn-lg btn-block" name="salvar" id="salvar" value="Salvar" />
+                    </div>
+                </div>           
+            </div>
+        }
+    </fieldset>
+
+
+

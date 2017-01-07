@@ -1,0 +1,13 @@
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.BLL.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.BLL.pdb
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.DAL.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.DTO.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\EntityFramework.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\MySql.Data.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.DAL.pdb
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\CCT.Horarios.DTO.pdb
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\bin\Debug\EntityFramework.xml
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\obj\Debug\CCT.Horarios.BLL.csprojResolveAssemblyReference.cache
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\obj\Debug\CCT.Horarios.BLL.dll
+C:\Users\a120004\Documents\Visual Studio 2015\Projects\CCT.Horarios\CCT.Horarios.BLL\obj\Debug\CCT.Horarios.BLL.pdb
